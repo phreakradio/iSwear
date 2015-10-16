@@ -1,0 +1,5 @@
+#JSGF V1.0;
+
+grammar curses;
+
+public <curses> = ((fuck* | shit* | ass* | motherfucker* | crap* | asshole* | hell* | cunt* | bitch* | retard*)+)+;
